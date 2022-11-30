@@ -1,5 +1,7 @@
 /** find 2nd largest number in an unsorted array using only 1 loop */
 
+// aked in tomorrow an Aditya birla sub Round 1
+
 const secondLargest = (arr) =>{
     let large = 0;
     let secondlarge = 0;
