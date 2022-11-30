@@ -1,2 +1,1 @@
-/**  String Coercion : EY
- */
+/**  String Coercion : EY */
